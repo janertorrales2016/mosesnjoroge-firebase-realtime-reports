@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TwoStepAuthentication</string>
+    <string name="disabled_users_report">Report</string>
+</resources>
